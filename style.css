@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(168, 206, 218);
+  }
+  .center-image {
+    text-align: center; /* จัดให้อยู่ตรงกลาง */
+}
